@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en" dir="ltr">
    <head>
      <meta charset="utf-8">
@@ -51,4 +51,4 @@ Select your City
      <input type="Submit" value="Submit">
     </form>
   </body>
-</html>
+</HTML>
